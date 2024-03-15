@@ -1,5 +1,9 @@
 # Getting Started with Create React App
-MANOJ
+The goal of this project is to create a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. The system will consist of the following pages:
+  Dashboard - Provides an overview of the system's features.
+  Products Management - Allows for the management of product listings.
+  Orders Management - Facilitates viewing and handling orders.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
