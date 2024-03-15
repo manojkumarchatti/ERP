@@ -4,6 +4,7 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
   Dashboard - Provides an overview of the system's features.
   
   Products Management - Allows for the management of product listings.
+  
   Orders Management - Facilitates viewing and handling orders.
 
 
