@@ -6,7 +6,19 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
   Products Management - Allows for the management of product listings.
   
   Orders Management - Facilitates viewing and handling orders.
+  Screenshots of the Application:
+  1.Products:
 ![Screenshot (4)](https://github.com/manojkumarchatti/ERP/assets/75745034/40fb8b19-ea8c-46a6-acb6-9363d0ec7f4b)
+
+  2.Orders
+  ![Screenshot (5)](https://github.com/manojkumarchatti/ERP/assets/75745034/a1fb81e1-5be6-4d30-b62e-482977f63088)
+
+  3.DashBoard
+  ![Screenshot (6)](https://github.com/manojkumarchatti/ERP/assets/75745034/afd8639c-55a5-4dcf-b844-8c464ed6ce37)
+  ![Screenshot (9)](https://github.com/manojkumarchatti/ERP/assets/75745034/ca7de5d2-6668-4bbf-9a7d-138a185d9472)
+
+
+
 
   
 
