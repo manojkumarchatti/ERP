@@ -1,0 +1,22 @@
+export default [
+        {"id":1,"name": "Apple iPhone 13", "category": ["Electronics"], "price": "$699", "stock_quantity": "1000"},
+        {"id":2,"name": "Nike Air Max", "category": ["Footwear"], "price": "$120", "stock_quantity": "500"},
+        {"id":3,"name": "Samsung Galaxy S22", "category": ["Electronics"], "price": "$799", "stock_quantity": "800"},
+        {"id":4,"name": "Levi's Jeans", "category": ["Clothing"], "price": "$50", "stock_quantity": "600"},
+        {"id":5,"name": "Sony PlayStation 5", "category": ["Gaming"], "price": "$499", "stock_quantity": "200"},
+        {"id":6,"name": "Dell XPS 15", "category": ["Computers"], "price": "$1500", "stock_quantity": "300"},
+        {"id":7,"name": "Bose QuietComfort 35 II", "category": ["Audio"], "price": "$299", "stock_quantity": "400"},
+        {"id":8,"name": "Canon EOS 5D Mark IV", "category": ["Photography"], "price": "$2499", "stock_quantity": "100"},
+        {"id":9,"name": "KitchenAid Mixer", "category": ["Kitchen Appliances"], "price": "$379", "stock_quantity": "500"},
+        {"id":10,"name": "Instant Pot Duo", "category": ["Kitchen Appliances"], "price": "$89", "stock_quantity": "700"},
+        {"id":11,"name": "Kindle Paperwhite", "category": ["Electronics"], "price": "$129", "stock_quantity": "800"},
+        {"id":12,"name": "Fitbit Charge 4", "category": ["Fitness"], "price": "$149", "stock_quantity": "900"},
+        {"id":13,"name": "GoPro HERO9 Black", "category": ["Photography"], "price": "$399", "stock_quantity": "300"},
+        {"id":14,"name": "Logitech MX Master 3", "category": ["Computers"], "price": "$99", "stock_quantity": "600"},
+        {"id":15,"name": "Apple Watch Series 7", "category": ["Electronics"], "price": "$399", "stock_quantity": "500"},
+        {"id":16,"name": "Adidas Ultraboost", "category": ["Footwear"], "price": "$180", "stock_quantity": "400"},
+        {"id":17,"name": "Ray-Ban Aviator Sunglasses", "category": ["Accessories"], "price": "$154", "stock_quantity": "200"},
+        {"id":18,"name": "Burberry Trench Coat", "category": ["Clothing"], "price": "$1790", "stock_quantity": "100"},
+        {"id":19,"name": "YETI Rambler", "category": ["Outdoor"], "price": "$29", "stock_quantity": "1000"},
+        {"id":20,"name": "LEGO Star Wars Millennium Falcon", "category": ["Toys"], "price": "$159", "stock_quantity": "800"}
+        ]
