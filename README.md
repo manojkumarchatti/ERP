@@ -7,6 +7,8 @@ The goal of this project is to create a simplified interface for an ERP (Enterpr
   
   Orders Management - Facilitates viewing and handling orders.
 
+  
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
